@@ -1,0 +1,40 @@
+.orders-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-height: 95vh;
+  width: 70%;
+  background-color: #e2e8f0;
+  flex-grow: 1;
+}
+
+.order-setting-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 20px;
+  width: 95%;
+  margin: 10px;
+}
+
+.order-btn {
+  background-color: transparent;
+  border: none;
+}
+
+.order-cancel-tab {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  height: 17px;
+  border-radius: 2px;
+}
+
+.setting-btn {
+  height: 15px;
+  width: 15px;
+  margin-top: 2px;
+}

@@ -1,0 +1,37 @@
+.nav-header {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.nav-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 95%;
+  max-width: 1110px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.website-logo {
+  width: 110px;
+}
+
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: flex-end;
+  flex: 1;
+  list-style-type: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 400px;
+}
+
+.nav-icons {
+  margin-right: 7px;
+  height: 35px;
+  width: 35px;
+}

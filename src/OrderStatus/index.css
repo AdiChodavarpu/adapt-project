@@ -1,0 +1,25 @@
+.Order-Status-Section {
+  display: "flex";
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 95%;
+
+  margin-top: 25px;
+}
+
+.order-status-un-ordered-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 0px;
+  margin-left: 12px;
+}
+
+.order-status-items {
+  color: #424242;
+  margin-right: 12px;
+  padding: 0px;
+}

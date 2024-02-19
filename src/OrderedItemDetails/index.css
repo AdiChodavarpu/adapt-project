@@ -1,0 +1,103 @@
+.order-item-un-ordered-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  list-style-type: none;
+  padding: 0px;
+}
+
+.order-item-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 35px;
+}
+
+.check-box-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 80px;
+  margin-left: 5px;
+}
+
+.bag-image {
+  height: 20px;
+  width: 20px;
+}
+.bag-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  padding-left: 20px;
+}
+
+.orderno-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  padding-left: 20px;
+}
+
+.order-no {
+  color: #3b82f6;
+  font-size: 15px;
+  font-family: "Roboto";
+}
+
+.date {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  font-size: 15px;
+  padding-left: 15px;
+}
+
+.city {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  font-size: 15px;
+  padding-left: 15px;
+}
+
+.customer-name {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 95px;
+  font-size: 13px;
+}
+
+.pending {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 70px;
+  font-size: 13px;
+  padding-left: 10px;
+}
+
+.Actions {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 70px;
+  font-size: 13px;
+  padding-left: 10px;
+}
